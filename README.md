@@ -1,6 +1,6 @@
 # ML_Assignment3
 video link:
-https://github.com/nikhilbonala/ML_Assignment3.git
+https://drive.google.com/file/d/1ZNsgP_5ma1dDVxCNyNl-IKqxeVaCtAJg/view?usp=share_link
 
 questions:
 1. Numpy:
